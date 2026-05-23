@@ -1,11 +1,8 @@
-# byakugan-vision
-🍀Humayra   Data Explorer | Teaching machines to perceive and analyze. Focused on Python, Neural Networks, and Computer Vision.  🚀 *“In data we trust, everyone else must bring data.”*
-
 # 👁️‍🗨️ byakugan-vision
 
-### 🍀 Data Explorer | Teaching machines to perceive and analyze.
+🍀 **Humayra** | *Data Explorer*
 
-Focused on Vehicle Damage Detection using deep learning architectures. 
+Teaching machines to perceive and analyze. Focused on Python, Neural Networks, and Computer Vision. 
 
 🚀 *“In data we trust, everyone else must bring data.”*
 
@@ -20,5 +17,3 @@ Focused on Vehicle Damage Detection using deep learning architectures.
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
 </p>
-
-
